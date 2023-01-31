@@ -1,0 +1,3 @@
+## What I usually post about on social media?
+
+Researching in Human-Computer Interaction (HCI) and how we can improve the design of Artificial Intelligence (AI) models. Furthermore, I also talk about Computer Science (CS), discussing how both HCI and AI are important fields to the CS community. From here, I usually explain how these techniques can improve several healthcare outcomes for clinicians and patients. Last but not least, one important portion of my life is bringing my entrepreneur mindset by showing to the community how research can have a technology transfer to the startup world. In fact, I usually publish about how intellectual property (e.g., inventions, patents, designs, etc) can be of chief importance to your research, as well.
